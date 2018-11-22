@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Pacifico';
+    src: url('../fonts/Pacifico-Regular-Webfont.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/QAUlVt1jXOgQavlW5wEfxQLUuEpTyoUstqEm5AMlJo4.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/xkvoNo9fC8O2RDydKj12bwzyDMXhdD8sAj6OAJTFsBI.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+h1{
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-size: 30px
