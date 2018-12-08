@@ -37,12 +37,31 @@ h1 {
    top: 20px;
 }
 
+#heading {
+   display: inline-flex;
+   position: relative;
+   left: 684px;
+   top: 108px;
+   line-height: 40px;
+}
+
+.title {
+   padding-top: 16px;
+}
+
 header > p {
    font-family: 'Raleway Light', sans-serif;
    font-size: 36px;
    position: relative;
    text-align: center;
    top: 160px;
+}
+
+.down-arrow {
+   display: block;
+   position: relative;
+   left: 776px;
+   top: 210px;
 }
 
 h2 {
