@@ -140,6 +140,58 @@ h2 {
    bottom: 76px;
 }
 
+#content2 {
+   position: relative;
+   width: 1600px;
+   height: 410px;
+   bottom: 530px;
+   background-color: rgb(227, 227, 227);
+}
+
+.video-info {
+   width: 540px;
+   height: 144px;
+   line-height: 24px;
+   position: relative;
+   top: 50px;
+   left: 210px;
+}
+
+.video-icon {
+   display: inline-flex;
+   position: relative;
+   padding-right: 10px;
+   left: 210px;
+   top: 76px;
+}
+
+.video-image {
+   position: absolute;
+   bottom: 50px;
+   left: 890px;
+}
+
+.video-play {
+   position: relative;
+   padding-right: 10px;
+   left: 660px;
+   top: 124px;
+}
+
+.video-cursor {
+   position: absolute;
+   left: 410px;
+   top: 260px;
+}
+
+#info2 {
+   background-color: rgb(244, 244, 244);
+   position: relative;
+   width: 1600px;
+   height: 716px;
+   bottom: 530px;
+}
+
 q {
    font-family: 'Raleway Regular', sans-serif;
    font-size: 24px;
@@ -157,6 +209,27 @@ q {
    line-height: 24px;
 }
 
+span {
+   font-weight: 800;
+}
+
+.container-image {
+   position: relative;
+   top: 120px;
+}
+
+.container-active {
+   position: absolute;
+   left: 914px;
+   top: 82px;
+}
+
+.container-cursor {
+   position: absolute;
+   left: 922px;
+   bottom: 164px;
+}
+
 #contact2 h2 {
    position: relative;
    font-family: 'Raleway SemiBold', sans-serif;
@@ -170,6 +243,14 @@ q {
    position: relative;
    top: 190px;
    left: 560px;
+}
+
+.app-icon {
+   display: inline-flex;
+   position: relative;
+   padding-right: 6px;
+   top: 214px;
+   left: 670px;
 }
 
 .container2 {
