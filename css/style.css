@@ -253,6 +253,18 @@ span {
    left: 670px;
 }
 
+footer {
+   position: relative;
+   bottom: 532px;
+   width: 1600px;
+   height: 128px;
+   background-color: rgb(227, 227, 227);
+}
+
+#footer {
+   width: 540px;
+}
+
 .container2 {
    font-family: Helvetica-Neue, Helvetica, Arial, sans-serif;
    font-size: 14px;
@@ -262,4 +274,10 @@ span {
    justify-content: space-between;
    left: 530px;
    top: 50px;
+}
+
+.app-cursor {
+   position: absolute;
+   left: 776px;
+   bottom: 56px;
 }
