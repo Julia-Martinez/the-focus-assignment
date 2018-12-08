@@ -70,12 +70,74 @@ h2 {
    font-size: 22px;
 }
 
+#content {
+   position: relative;
+   width: 1600px;
+   height: 608px;
+   background-color: rgb(244, 244, 244);
+}
+
+.phone-image {
+   height: 766px;
+   position: absolute;
+   left: 576px;
+   bottom: 120px;
+}
+
+.phone-dot {
+   position: relative;
+   display: block;
+   padding-bottom: 72px;
+   margin-left: 360px;
+   bottom: 112px;
+}
+
+.phone-dot:nth-child(odd) {
+   left: 130px;
+}
+
+.phone-cursor {
+   position: relative;
+   left: 864px;
+   top: 10px;
+   z-index: 1;
+}
+
+.phone-line {
+   position: relative;
+   top: 114px;
+   left: 854px;
+}
+
+#info {
+   position: relative;
+   width: 1600px;
+   height: 400px;
+   bottom: 550px;
+}
+
 #content2 p,
 #info p {
    font-family: Helvetica-Neue, Helvetica, Arial, sans-serif;
    font-size: 16px;
    color: rgb(132, 132, 132);
    line-height: 26px;
+}
+
+.feature1 {
+   position: absolute;
+   display: block;
+   width: 320px;
+   left: 270px;
+   padding-bottom: 36px;
+}
+
+.feature1:nth-child(even) {
+   left: 1030px;
+}
+
+.feature1:nth-child(-n+2) {
+   bottom: 76px;
 }
 
 q {
