@@ -23,3 +23,9 @@
    font-style: normal;
 }
 
+header {
+   background: transparent url('../img/large-banner-image.png');
+   width: 1600px;
+   height: 672px;
+}
+
